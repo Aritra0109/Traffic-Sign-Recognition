@@ -1,0 +1,2 @@
+**Traffic Sign Recognition Using Deep Learning** <br>
+This project is a web-based application that identifies and classifies traffic signs from images using a Convolutional Neural Network (CNN) model. It is built with TensorFlow/Keras and Flask to provide a user-friendly interface for image upload and sign prediction. This system can recognize a variety of traffic signs, aiding drivers and autonomous systems by providing real-time sign classification.<br>
